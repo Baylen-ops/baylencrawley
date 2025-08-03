@@ -14,7 +14,7 @@ Certifications & Labs
 - Google Cybersecurity Cert (In Progress)
 - CCNA Cisco Certified Network Associate (In Progress)
   
-- TryHackMe: [View My Profile](https://tryhackme.com/p/yourusername)
+- TryHackMe: [View My Profile](https://tryhackme.com/p/BaylenCrawley)
 
 Contact: baylencrawley@live.com.au 
 LinkedIn : www.linkedin.com/in/baylen-crawley-136abb319 

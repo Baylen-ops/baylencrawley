@@ -5,7 +5,6 @@ Passionate about ethical hacking, system hardening, and cloud security
 
  Projects
 - [T-Pot Honeypot Deployment](https://github.com/yourusername/tpot-honeypot-lab)
-- [Web App Vulnerability Testing (OWASP ZAP)](https://github.com/yourusername/webapp-vuln)
 - Python Keylogger(https://github.com/Baylen-ops/Python-Keylogger/blob/main/README.md) 
 
 Certifications & Labs
